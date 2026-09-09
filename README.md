@@ -3,6 +3,12 @@
 A local, offline red-teaming environment for probing LLM agent guardrails.
 Built with Python, Streamlit, and Ollama.
 
+## 🎥 YouTube Tutorial
+
+Want to understand how this project works step by step?
+
+[Video walkthrough](https://youtu.be/9RPWzPNAjHY)
+
 ## Setup
 
 ```bash
