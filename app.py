@@ -265,7 +265,7 @@ with st.sidebar:
     model = st.selectbox(
         "Model",
         options=models if models else ["(none available)"],
-        help="Pull models with: ollama pull mistral"
+        help="Pull the base model with: ollama pull gemma3:4b (then build gemma3:4b-fast, see README)"
     )
 
     st.markdown("---")
